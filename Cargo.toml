@@ -1,0 +1,8 @@
+[package]
+name = "minigrep_mm"
+version = "0.1.0"
+edition = "2024"
+description = "minigrep app from rust-book with public lib methods"
+license = "Apache-2.0 OR MIT"
+
+[dependencies]
